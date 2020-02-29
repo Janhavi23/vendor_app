@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:vendor_app/timestamp.dart';
 import 'dart:async';
 import 'package:vendor_app/timestampget.dart';
 
